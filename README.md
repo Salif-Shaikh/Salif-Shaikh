@@ -1,7 +1,7 @@
 - Hi, I’m @Salif-Shaikh
-- I’m interested in python and its related fields
+- I’m interested in python and GoLang
 - I’m currently pursuing computer science degree
-- I’m looking to collaborate on python projects
+- I’m looking to collaborate on python or Golang projects.
 - How to reach me : mohdammadsalif@gmail.com
 
 <!---
